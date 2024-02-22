@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "start": "backend-app.js",
+    "firebase": "^10.5.2",
+    "webpack": "^5.0.0", 
+    "webpack-cli": "^4.0.0", 
+    "webpack-dev-server": "^4.0.0"
+  }
+}
